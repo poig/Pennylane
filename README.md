@@ -1,3 +1,4 @@
 # QHack
 ## Qhack2022
-- ** finish coding challenge **
+- qhack coding challenge (include solution)
+- qhack open hackethon (didn't submit on time)
