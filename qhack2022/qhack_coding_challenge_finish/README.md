@@ -16,7 +16,7 @@
 
 ### Games
 - [x] tardigrade masquerade
-- [] CHSH game
+- [ ] CHSH game
 - [x] bomb tester
 - [x] find the car
 - [x] switches 
@@ -24,13 +24,13 @@
 ### Quantum Chemistry
 - [x] particle conservation
 - [x] optimizing measurements
-- [] Givens universality
-- [] triple Givens
-- [] mind the gap
+- [ ] Givens universality
+- [ ] triple Givens
+- [ ] mind the gap
 
 ### Quantum Machine Learning
-- [] generating Fourier basis
-- [] who likes the beatles
-- [] Ising on the cake
+- [ ] generating Fourier basis
+- [ ] who likes the beatles
+- [ ] Ising on the cake
 - [x] building qRAM
-- [] UDMIS
+- [ ] UDMIS
