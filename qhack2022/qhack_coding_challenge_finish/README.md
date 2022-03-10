@@ -1,4 +1,4 @@
-# Qhack solution
+# Qhack 2022 coding challenge solution
 
 ### PennyLane 101
 - [x] order matters
