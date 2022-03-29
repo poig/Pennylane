@@ -1,6 +1,6 @@
 # late submmition to qhack, but fun experience
 Team Name:
-poig
+POIG
 
 Project Description:   
 goal:   
