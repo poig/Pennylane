@@ -4,7 +4,7 @@ poig
 
 Project Description:   
 goal:   
-predict the ground state energies of molecules using Coulomb matrices as input using quantum-classical Neural Networks. I hope to combine advanced feed forward neural network(FFNN) and quantum neural network(QNN) to achieve higher accuracy, this could also lead to futher project like predict atomization energies, prioritize geometry searches, and interpret rotational spectra using quantum computation power.   
+predict the ground state energies of molecules using Coulomb matrices as input using quantum-classical Neural Networks. I hope to combine advanced feed forward neural network(FFNN) and quantum neural network(QNN) to achieve higher learning rate, this could also lead to futher project like predict atomization energies, prioritize geometry searches, and interpret rotational spectra using quantum computation power.   
 To conclude this project main purpose is using the ability to predict electronic properties without performing new simulations for each molecule/material, machine learning techniques open up exciting pathways for rational design of new compounds. Combined with numerous efforts to catalog and standardize datasets (such as Materials Project and Aflow), these methods will be invaluable for many scientific and technological applications, but the further question is what if we using quantum simulation example to improve the accuracy not only the learning rate.
 
 It will train over 16,242 Molecules ground state with FNN&QNN. training databset from kaggle
