@@ -2,8 +2,6 @@
 Team Name:
 poig
 
-Your team's name (if your team took part in the QHack Coding Challenge, the name here should match)
-
 Project Description:
 1.1.1 goal:
 predict the ground state energies of molecules using Coulomb matrices as input using quantum-classical Neural Networks. I hope to combine advanced feed forward neural network(FFNN) and quantum neural network(QNN) to achieve higher accuracy, this could also lead to futher project like predict atomization energies, prioritize geometry searches, and interpret rotational spectra using quantum computation power.
