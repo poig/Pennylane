@@ -1,0 +1,19 @@
+- [x] Explorer
+  - [x] PennyLane Code Camp: Tutorial challenge
+  - [x] Differentiable ZNE: Noisy circuits
+  - [x] Fourier spectrum of quantum models: Building a model
+  - [x] Gradients: The parameter-shift rule
+  - [x] Quantum transforms and noise: Energy dissipation
+  - [x] Universality: Working with one qubit
+- [x] Advanturer
+  - [x] Differentiable ZNE: Global circuit folding
+  - [x] Fourier spectrum of quantum models : Distance in Fourier space
+  - [x] Gradients: A four-term parameter-shift rule
+  - [x] Quantum transforms and noise: A faulty superconducting device
+  - [x] Universality: U3 and CNOT decomposition
+- [ ] Pioneer
+  - [x] Differentiable ZNE: Error-mitigated VQE
+  - [ ] Fourier spectrum of quantum models: Coefficients and frequencies
+  - [ ] Gradients: Adjoint differentiation
+  - [ ] Quantum transforms and noise: Maximizing fidelity
+  - [ ] Universality: H, T and CNOT decomposition
