@@ -6,6 +6,6 @@
 - ...
 
 # Codecamp
-## [x] Advanturer
-## [x] Explorer
-## [ ] Pioneer
+- [x] Advanturer
+- [x] Explorer
+- [ ] Pioneer
