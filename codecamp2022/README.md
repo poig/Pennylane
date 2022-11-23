@@ -1,3 +1,4 @@
+include printout circuit output
 - [x] Explorer
   - [x] PennyLane Code Camp: Tutorial challenge
   - [x] Differentiable ZNE: Noisy circuits
@@ -13,7 +14,7 @@
   - [x] Universality: U3 and CNOT decomposition
 - [ ] Pioneer
   - [x] Differentiable ZNE: Error-mitigated VQE
-  - [ ] Fourier spectrum of quantum models: Coefficients and frequencies
-  - [ ] Gradients: Adjoint differentiation
-  - [ ] Quantum transforms and noise: Maximizing fidelity
-  - [ ] Universality: H, T and CNOT decomposition
+  - [ ] Fourier spectrum of quantum models: Coefficients and frequencies(other answers)
+  - [ ] Gradients: Adjoint differentiation(other answers)
+  - [ ] Quantum transforms and noise: Maximizing fidelity(other answers)
+  - [ ] Universality: H, T and CNOT decomposition(other answers)
