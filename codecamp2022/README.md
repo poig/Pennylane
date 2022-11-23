@@ -14,7 +14,7 @@ include printout circuit output
   - [x] Universality: U3 and CNOT decomposition
 - [ ] Pioneer
   - [x] Differentiable ZNE: Error-mitigated VQE
-  - [ ] Fourier spectrum of quantum models: Coefficients and frequencies(other answers)
-  - [ ] Gradients: Adjoint differentiation(other answers)
-  - [ ] Quantum transforms and noise: Maximizing fidelity(other answers)
-  - [ ] Universality: H, T and CNOT decomposition(other answers)
+  - [ ] Fourier spectrum of quantum models: Coefficients and frequencies(others answers)
+  - [ ] Gradients: Adjoint differentiation(others answers)
+  - [ ] Quantum transforms and noise: Maximizing fidelity(others answers)
+  - [ ] Universality: H, T and CNOT decomposition(others answers)
