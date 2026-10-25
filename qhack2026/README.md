@@ -1,0 +1,26 @@
+- [x] Group 1
+  - [x] Goal or No Goal
+  - [x] Playing Period
+  - [x] Fermionic VQE
+  - [x] The Draft Lottery
+  - [x] The Hidden Subgroup Stage
+  - [x] Diffuse and Conquer
+  - [x] Grover's Little Helper
+- [x] Group 2
+  - [x] Building a Quantum Kernel
+  - [x] Keep your Own Score
+  - [x] The Scouting Report
+  - [x] A Relay of Phases
+  - [x] Nuclear Magnetic Resonance
+  - [x] A Basket of Options
+  - [x] Approximation Ratio for QAOA
+- [ ] Group 3
+  - [x] My First Quantum Neural Network
+  - [x] Personal Best (Bronze)
+  - [x] Same Kit, Different Number
+  - [x] Break the Tie
+  - [x] Personal Best (Silver)
+  - [x] The Salary Cap
+  - [x] Implementing POVMs
+  - [ ] Personal Best (Gold) solution get from: github.com/Cass490/Yamazaki-akebui
+  - [x] Pulse Optimization
